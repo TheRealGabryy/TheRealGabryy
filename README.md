@@ -26,7 +26,7 @@ const gabriele = {
 
 - 🔭 Currently working on **[FlashFX](https://flashfx.app)** - Next-gen editing platform
 - 👯 Open to collaborate on **[MLed](https://ml-ed.netlify.app)** - ML Education Platform
-- 💼 Portfolio: **[therealg.art](https://therealg.art)**
+- 💼 Portfolio: **[therealg.art](https://therealg-art.netlify.app)**
 - ✍️ Technical Blog: **[dev.to/therealgabryy](https://dev.to/therealgabryy)**
 - 💬 Ask me about: **TypeScript, PHP, Java, AI/ML, Web Development, REST APIs, SQL**
 - 📫 Reach me: **the.real.gabryy@gmail.com**
