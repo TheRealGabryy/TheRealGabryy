@@ -15,18 +15,17 @@
 ```typescript
 const gabriele = {
     role: "Backend Developer & ML Engineer",
-    location: "Milan, Italy 🇮🇹",
+    location: "Rovigo, Italy 🇮🇹",
     mainLanguages: ["TypeScript", "PHP"],
-    currentFocus: ["FlashFX", "MLed", "AI Development"],
-    learning: ["Python", "Advanced PyTorch"],
-    passion: "Building AI solutions since day one",
-    funFact: "Started using AI when it first came out. Now I develop them."
+    currentFocus: ["FlashFX", "DigitalGabry", "civitasCraft"],
+    learning: ["Python", "Advanced WebGPU"],
+    passion: "Building products that save time",
 };
 ```
 
 - 🔭 Currently working on **[FlashFX](https://flashfx.app)** - Next-gen editing platform
 - 👯 Open to collaborate on **[MLed](https://ml-ed.netlify.app)** - ML Education Platform
-- 💼 Portfolio: **[therealg.art](https://therealg-art.netlify.app)**
+- 💼 Personal website: **[gabrielebolognese.blog](https://gabrielebolognese.blog)**
 - ✍️ Technical Blog: **[dev.to/therealgabryy](https://dev.to/therealgabryy)**
 - 💬 Ask me about: **TypeScript, PHP, Java, AI/ML, Web Development, REST APIs, SQL**
 - 📫 Reach me: **the.real.gabryy@gmail.com**
@@ -87,11 +86,11 @@ const gabriele = {
 ### 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=therealgabryy&show_icons=true&theme=tokyonight&title_color=a855f7&locale=en&layout=compact&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielebolognese&show_icons=true&theme=tokyonight&title_color=a855f7&locale=en&layout=compact&hide_border=true" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=therealgabryy&theme=tokyonight&hide_border=true&stroke=a855f7&ring=a855f7&fire=a855f7" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielebolognese&theme=tokyonight&hide_border=true&stroke=a855f7&ring=a855f7&fire=a855f7" alt="GitHub Streak" />
 </div>
 
 ---
@@ -107,18 +106,6 @@ const gabriele = {
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/contentmarketing.therealg)
   [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/therealgdev)
   [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/UbJP7taetY)
-  
-</div>
-
----
-
-<div align="center">
-  
-  ### 💭 Quote of the Day
-  
-  ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-  
-  ### ⚡ "From AI user to AI creator — pushing boundaries every day"
   
 </div>
 
